@@ -1,0 +1,12 @@
+#book-summary #short-form #education 
+1. [[make it stick - 1 page summary]]
+2. [[make it stick - Introduction]]
+3. [[make it stick - ch 1]]
+4. [[make it stick - ch 2]]
+5. [[make it stick - ch 3]]
+6. [[make it stick - ch 5]]
+7. [[make it stick - ch 4]]
+8. [[make it stick - ch 6]]
+9. [[make it stick - ch 7]]
+10. [[make it stick - ch 8]]
+11. [[make it stick - ch 9]]

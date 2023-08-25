@@ -1,0 +1,16 @@
+#short-form 
+
+[[12 Rules for Life - 1 page summary]]
+[[12 Rules for Life - Intro]]
+[[12 Rules for Life - rule 1]]
+[[12 Rules for Life - rule 2]]
+[[12 Rules for Life - rule 3]]
+[[12 Rules for Life - rule 4]]
+[[12 Rules for Life - rule 5]]
+[[12 Rules for Life - rule 6]]
+[[12 Rules for Life - rule 7]]
+[[12 Rules for Life - rule 8]]
+[[12 Rules for Life - rule 9]]
+[[12 Rules for Life - rule 10]]
+[[12 Rules for Life - rule 11]]
+[[12 Rules for Life - rule 12]]

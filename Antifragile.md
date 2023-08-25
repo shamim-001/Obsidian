@@ -1,0 +1,16 @@
+#book-summary #short-form #philosophy 
+1. [[Antifragile - 1 page summary]]
+2. [[Antifragile - ch 1-2]]
+3. [[Antifragile - ch 3]]
+4. [[Antifragile - ch 4]]
+5. [[Antifragile - ch 5]]
+6. [[Antifragile - ch 6-7]]
+7. [[Antifragile - ch 8-11]]
+8. [[Antifragile - ch 12-13]]
+9. [[Antifragile - ch 14-15]]
+10. [[Antifragile - ch 16-17]]
+11. [[Antifragile - ch 18-19]]
+12. [[Antifragile - ch 20]]
+13. [[Antifragile - ch 21 -22]]
+14. [[Antifragile - ch 23 - 25]]
+

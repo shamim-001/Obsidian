@@ -1,0 +1,17 @@
+#book-summary #short-form #biography-memoir 
+
+1. [[shoe dog - 1 page summary]]
+2. [[shoe dog - 1962]]
+3. [[shoe dog - 1963 - 1964]]
+4. [[shoe dog - 1965]]
+5. [[shoe dog - 66-67]]
+6. [[shoe dog - 68]]
+7. [[shoe dog - 69 - 70]]
+8. [[shoe dog - 71]]
+9. [[shoe dog - 72]]
+10. [[shoe dog - 73-74]]
+11. [[shoe dog - 75]]
+12. [[shoe dog - 76]]
+13. [[shoe dog - 77-79]]
+14. [[shoe dog - 80]]
+15. [[shoe dog - night]]
