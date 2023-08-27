@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "51efca1bf47e5b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "d802aaa559bd2f1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8658b9bd8b62c1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "*Tag.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e0f22a0c19d608cc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blogs.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b160f9fa57ad9447",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects in hand.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f5a4479e7eb715ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07855e556b24e70d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da092bdbe619463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c82dd414a4b70c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffe066b1fb17dbef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b89afb86e8882cd1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "92f250d415d19729",
+    "type": "split",
+    "children": [
+      {
+        "id": "d907ebc9c5e01a86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8027534cae11e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data modeling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2504952f1f5e3d8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data modeling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc53fa1c7bbe9889",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0bf0f0c73ede9dd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data modeling.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f5a4479e7eb715ea",
+  "lastOpenFiles": [
+    "Projects in hand.md",
+    "data modeling.md",
+    "Django part 1 - Mosh.md",
+    "Mosh- Django Tutorial.md",
+    "Events useEffect.md",
+    "Daily Notes/Jun 26 , 2023.md",
+    "*Tag.md",
+    "React Hook list.md",
+    "Events.md",
+    "React in depth with Nader and Hitesh.md",
+    "Intro Java.md",
+    "Pasted image 20230827085414.png",
+    "Pasted image 20230827084454.png",
+    "Pasted image 20230827084357.png",
+    "Pasted image 20230827081921.png",
+    "Core Java - Telusko.md",
+    "Intro.md",
+    "Data structure and Algorithm Mosh.md",
+    "for loop.md",
+    "Pasted image 20230826173729.png",
+    "Js in depth with Nader.md",
+    "While loop.md",
+    "Pasted image 20230826170735.png",
+    "Pasted image 20230826170535.png",
+    "Pasted image 20230826154112.png",
+    "Pasted image 20230826154054.png",
+    "Pasted image 20230826153611.png",
+    "Introduction to Django.md",
+    "django setup.md",
+    "connect postgresql - django.md",
+    "Customize ubuntu terminal.md",
+    "Stateless Components.md",
+    "JSX.md",
+    "React Definition.md",
+    "mysql - mosh.md",
+    "Full Stack Mindset Roadmap.md"
+  ]
+}

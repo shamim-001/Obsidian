@@ -17,13 +17,13 @@ pip3 install pipenv
 pipenv install django
 ```
 
-```bash
-python3 -m django --version
-```
-
 -> activate pipenv by running ->
 ```bash
 pipenv shell
+```
+
+```bash
+python3 -m django --version
 ```
 
 Create the project folder, 
