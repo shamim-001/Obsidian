@@ -3,6 +3,6 @@
 [Java source code](https://github.com/navinreddy20/Javacode)
 
 -----------------------------------------------------------------
+[[Data types and operators of java]]
 
-[[Intro Java]]
-
+[[Conditionals in java]]

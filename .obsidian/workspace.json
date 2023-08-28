@@ -50,19 +50,18 @@
             }
           },
           {
-            "id": "f5a4479e7eb715ea",
+            "id": "794478162eaa25cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data modeling.md",
+                "file": "useState - hook.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data modeling.md",
+                "file": "*Tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data modeling.md",
+                "file": "*Tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data modeling.md"
+                "file": "*Tag.md"
               }
             }
           }
@@ -189,43 +188,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5a4479e7eb715ea",
+  "active": "ffe066b1fb17dbef",
   "lastOpenFiles": [
-    "Projects in hand.md",
-    "data modeling.md",
-    "Django part 1 - Mosh.md",
-    "Mosh- Django Tutorial.md",
-    "Events useEffect.md",
-    "Daily Notes/Jun 26 , 2023.md",
+    "useState - hook.md",
+    "Task left.md",
     "*Tag.md",
-    "React Hook list.md",
-    "Events.md",
+    "Albert Einstine's learning philosophy.md",
+    "Learning philosophy of richard feynman.md",
+    "Pasted image 20230828121059.png",
+    "Pasted image 20230828120906.png",
+    "Pasted image 20230828120417.png",
     "React in depth with Nader and Hitesh.md",
-    "Intro Java.md",
-    "Pasted image 20230827085414.png",
-    "Pasted image 20230827084454.png",
-    "Pasted image 20230827084357.png",
-    "Pasted image 20230827081921.png",
+    "Pasted image 20230828112311.png",
+    "props drilling.md",
+    "Pasted image 20230828102910.png",
+    "Pasted image 20230828101836.png",
+    "Pasted image 20230828101734.png",
+    "Pasted image 20230828100129.png",
+    "Component composition.md",
+    "Pasted image 20230828092606.png",
+    "Projects in hand.md",
+    "Events.md",
+    "Conditionals in java.md",
     "Core Java - Telusko.md",
-    "Intro.md",
+    "Data types and operators of java.md",
+    "Type conversion and type casting in java.md",
+    "Pasted image 20230828081606.png",
+    "Intro Java.md",
+    "data types in java.md",
+    "variables in java.md",
+    "How java works.md",
     "Data structure and Algorithm Mosh.md",
-    "for loop.md",
-    "Pasted image 20230826173729.png",
+    "LinkedIn.md",
     "Js in depth with Nader.md",
     "While loop.md",
-    "Pasted image 20230826170735.png",
-    "Pasted image 20230826170535.png",
-    "Pasted image 20230826154112.png",
-    "Pasted image 20230826154054.png",
-    "Pasted image 20230826153611.png",
-    "Introduction to Django.md",
-    "django setup.md",
-    "connect postgresql - django.md",
-    "Customize ubuntu terminal.md",
-    "Stateless Components.md",
-    "JSX.md",
-    "React Definition.md",
-    "mysql - mosh.md",
-    "Full Stack Mindset Roadmap.md"
+    "for loop.md",
+    "data modeling.md",
+    "Django part 1 - Mosh.md",
+    "Mosh- Django Tutorial.md"
   ]
 }

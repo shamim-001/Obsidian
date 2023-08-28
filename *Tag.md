@@ -1,5 +1,6 @@
+#philosophy #learning 
 # Tech 
-#DSA 
+#DSA #linkedIn
 
 #tutorial  #setup #frontend #system-design 
 
@@ -43,9 +44,6 @@
 
 # API
 #api_url #axios 
-
-# Learn & Apply
-#taskleft #learningrightnow #project 
 
 # Cheat Sheet
 #cheatsheet #chatgpt 
