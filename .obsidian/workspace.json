@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "*Tag.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -48,18 +48,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "794478162eaa25cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "useState - hook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -90,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project",
+                "query": "tag:#speaking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,43 +176,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffe066b1fb17dbef",
+  "active": "7d8658b9bd8b62c1",
   "lastOpenFiles": [
-    "useState - hook.md",
-    "Task left.md",
-    "*Tag.md",
-    "Albert Einstine's learning philosophy.md",
-    "Learning philosophy of richard feynman.md",
-    "Pasted image 20230828121059.png",
-    "Pasted image 20230828120906.png",
-    "Pasted image 20230828120417.png",
-    "React in depth with Nader and Hitesh.md",
-    "Pasted image 20230828112311.png",
-    "props drilling.md",
-    "Pasted image 20230828102910.png",
-    "Pasted image 20230828101836.png",
-    "Pasted image 20230828101734.png",
-    "Pasted image 20230828100129.png",
-    "Component composition.md",
-    "Pasted image 20230828092606.png",
+    "nextjs - django.md",
     "Projects in hand.md",
-    "Events.md",
-    "Conditionals in java.md",
+    "part 1.md",
+    "English Speaking Resources.md",
+    "*Tag.md",
+    "Blogs.md",
+    "Next js with Hitesh.md",
+    "nextjs setup.md",
+    "React in depth with Nader and Hitesh.md",
+    "react-router-dom - notes.md",
+    "react-router-dom.md",
+    "useState - hook.md",
+    "Java with mosh.md",
+    "Data types in java mosh.md",
+    "Pasted image 20230829085400.png",
+    "Pasted image 20230829085232.png",
+    "How Java code gets executed.md",
+    "Pasted image 20230829082220.png",
+    "Pasted image 20230829082151.png",
+    "Pasted image 20230829082122.png",
+    "Anatomy of a Java Program.md",
+    "Pasted image 20230829075808.png",
+    "Data structure and Algorithm Mosh.md",
     "Core Java - Telusko.md",
     "Data types and operators of java.md",
     "Type conversion and type casting in java.md",
-    "Pasted image 20230828081606.png",
-    "Intro Java.md",
-    "data types in java.md",
-    "variables in java.md",
-    "How java works.md",
-    "Data structure and Algorithm Mosh.md",
-    "LinkedIn.md",
+    "Conditionals in java.md",
+    "JavaScript with Hitesh.md",
     "Js in depth with Nader.md",
-    "While loop.md",
-    "for loop.md",
     "data modeling.md",
+    "Pasted image 20230828143638.png",
     "Django part 1 - Mosh.md",
-    "Mosh- Django Tutorial.md"
+    "Mosh- Django Tutorial.md",
+    "Pasted image 20230828121059.png",
+    "Pasted image 20230828120906.png",
+    "Pasted image 20230828120417.png"
   ]
 }

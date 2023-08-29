@@ -1,4 +1,4 @@
-- https://github.com/scrimba/learn-react-router-6
+- https://github1s.com/scrimba/learn-react-router-6
 https://react-router-dom-git-main-shamim-001.vercel.app/
 
 1. React Router Setup & BrowserRouter 

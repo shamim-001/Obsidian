@@ -52,7 +52,7 @@
 #book-summary #short-form #key-points 
 
 # Blogs & Reading
-#blogs 
+#blogs  #nextjs-django
 
 # Job
 #job 
