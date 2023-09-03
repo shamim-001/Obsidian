@@ -7,9 +7,15 @@ for  1 hour daily
 
 # [[React in depth with Nader and Hitesh]] - review it time to time
 
-# [[Next js with Hitesh]]
+# [[Next js with Hitesh]] - ***
+
+# [[Nextjs with Dave gray]] - ***
+
+[[Nextjs Doc learn]]
 
 4 hours daily -> 9 am - 1 pm
+
+# [[typescript mosh]]
 
 --------------------------------------------------
 

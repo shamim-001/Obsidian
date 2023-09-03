@@ -1,19 +1,3 @@
-[![Shortform App](https://www.shortform.com/img/logo-dark.70c1b072.svg)](https://www.shortform.com/app)
-
-[Discover](https://www.shortform.com/app)
-
-[Books](https://www.shortform.com/app/books)
-
-[Articles](https://www.shortform.com/app/articles)
-
-[My library](https://www.shortform.com/app/library)
-
-[Search](https://www.shortform.com/app/search)
-
-# Antifragile
-
-[Back to Search](https://www.shortform.com/app/search)
-
 ## Chapter 3: Finding Antifragility
 
 A basic guideline is that anything living—whether literally, as with organisms, or figuratively, as with an artist’s growing and changing popularity—will have some degree of antifragility. Inanimate objects like glasses, cars, and the like, will be durable at best; they might be able to stand up to some amount of stress, but they can never be strengthened by it. **Living things can grow stronger after being damaged.**
@@ -49,19 +33,3 @@ The side effect of this lack of struggle is a lack of personal growth, of artist
 A _chronic stress injury_ happens when someone repeats the exact same movement too many times in a row, like walking on a randomness-free treadmill. A great deal of modern life consists of chronic stress injuries, both literal and metaphorical—such as long-term dissatisfaction with one’s job.
 
 In short, people will rise to naturally occurring challenges and grow stronger from them; conversely, they become weak and unfocused when the environment doesn’t provide such challenges.
-
-[
-
-Previous
-
-Chapters 1-2: What Is Antifragility?
-
-](https://www.shortform.com/app/book/antifragile/chapters-1-2)
-
-[
-
-Next
-
-Chapter 4: Layers of Antifragility
-
-](https://www.shortform.com/app/book/antifragile/chapter-4)

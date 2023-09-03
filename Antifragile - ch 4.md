@@ -1,19 +1,3 @@
-[![Shortform App](https://www.shortform.com/img/logo-dark.70c1b072.svg)](https://www.shortform.com/app)
-
-[Discover](https://www.shortform.com/app)
-
-[Books](https://www.shortform.com/app/books)
-
-[Articles](https://www.shortform.com/app/articles)
-
-[My library](https://www.shortform.com/app/library)
-
-[Search](https://www.shortform.com/app/search)
-
-# Antifragile
-
-[Back to Search](https://www.shortform.com/app/search)
-
 ## Chapter 4: Layers of Antifragility
 
 **While a complex system may be antifragile, that antifragility often depends on the _fragility_ of individual pieces of it.** People couldn’t become stronger if muscles didn’t first break down, and species couldn’t evolve if individual organisms didn’t die.

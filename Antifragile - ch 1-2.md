@@ -1,19 +1,3 @@
-[![Shortform App](https://www.shortform.com/img/logo-dark.70c1b072.svg)](https://www.shortform.com/app)
-
-[Discover](https://www.shortform.com/app)
-
-[Books](https://www.shortform.com/app/books)
-
-[Articles](https://www.shortform.com/app/articles)
-
-[My library](https://www.shortform.com/app/library)
-
-[Search](https://www.shortform.com/app/search)
-
-# Antifragile
-
-[Back to Search](https://www.shortform.com/app/search)
-
 ## Chapters 1-2: What Is Antifragility?
 
 _Antifragile_ is the fourth book in former options trader Nassim Nicholas Taleb’s five-book _Incerto_ series, which explores randomness and its unpredictable effects. In this book, Taleb discusses strategies and principles that will allow us to be helped by unforeseen events rather than harmed by them.

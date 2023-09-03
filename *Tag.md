@@ -1,6 +1,13 @@
-#philosophy #learning 
+#philosophy #learning #english-tips 
+
+-[Tech](#Tech) -[Frontend](#Frontend) -[CSS](#CSS) -[Django](#Django) -[JavaScript](#JavaScript) -[React](#React) -[Nextjs](#Nextjs) 
+
+-[React Projects](#React-Projects) -[API](#API) -[Cheat Sheet](#Cheat-Sheet) -[Books](#Books) -[Blogs & Reading](#Blogs-&-Reading) 
+
+-[Job](#Job) -[English](#English) -[Websites](#Websites) 
+
 # Tech 
-#DSA #linkedIn
+#DSA #linkedIn 
 
 #tutorial  #setup #frontend #system-design 
 
@@ -39,27 +46,34 @@
 
 #react-router-dom
 
-# React Projects
+# Nextjs
+#nextjs #nextjs-tutorial  #nextjs-django #nextjs-project 
+#nextjs-setup
+#nextjs-concept 
+
+#metadata #fetching-data 
+# React-Projects
 #react-project 
 
 # API
 #api_url #axios 
 
-# Cheat Sheet
+# Cheat-Sheet
 #cheatsheet #chatgpt 
 
 # Books
 #book-summary #short-form #key-points 
 
-# Blogs & Reading
+# Blogs-&-Reading
 #blogs  #nextjs-django
 
 # Job
 #job 
 
 # English
-#speaking #english #dictionary 
+#speaking #english #dictionary #collocation 
+
  #a #b #c #d #e #f #g #h #i #j #k #l #m #n #o #p #q #r #s #t #u #v #w #x #y #z 
 
-Websites
+# Websites
 #websites

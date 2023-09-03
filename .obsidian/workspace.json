@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "*Tag.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -48,8 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9fb4a5ee5f674ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "part 1 - file structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#speaking",
+                "query": "tag:#nextjs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "*Tag.md",
+                "file": "part 1 - file structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "*Tag.md",
+                "file": "part 1 - file structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "*Tag.md"
+                "file": "part 1 - file structure.md"
               }
             }
           }
@@ -176,43 +189,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d8658b9bd8b62c1",
+  "active": "9fb4a5ee5f674ea5",
   "lastOpenFiles": [
-    "nextjs - django.md",
-    "Projects in hand.md",
-    "part 1.md",
-    "English Speaking Resources.md",
-    "*Tag.md",
-    "Blogs.md",
     "Next js with Hitesh.md",
+    "*Tag.md",
+    "part 1 - file structure.md",
+    "Pasted image 20230903160551.png",
+    "Pasted image 20230903160457.png",
+    "Pasted image 20230903154425.png",
+    "Pasted image 20230903154337.png",
     "nextjs setup.md",
-    "React in depth with Nader and Hitesh.md",
-    "react-router-dom - notes.md",
-    "react-router-dom.md",
-    "useState - hook.md",
-    "Java with mosh.md",
-    "Data types in java mosh.md",
-    "Pasted image 20230829085400.png",
-    "Pasted image 20230829085232.png",
-    "How Java code gets executed.md",
-    "Pasted image 20230829082220.png",
-    "Pasted image 20230829082151.png",
-    "Pasted image 20230829082122.png",
-    "Anatomy of a Java Program.md",
-    "Pasted image 20230829075808.png",
-    "Data structure and Algorithm Mosh.md",
-    "Core Java - Telusko.md",
-    "Data types and operators of java.md",
-    "Type conversion and type casting in java.md",
-    "Conditionals in java.md",
-    "JavaScript with Hitesh.md",
-    "Js in depth with Nader.md",
-    "data modeling.md",
-    "Pasted image 20230828143638.png",
-    "Django part 1 - Mosh.md",
-    "Mosh- Django Tutorial.md",
-    "Pasted image 20230828121059.png",
-    "Pasted image 20230828120906.png",
-    "Pasted image 20230828120417.png"
+    "Projects in hand.md",
+    "Nextjs with Dave gray.md",
+    "Fetching data.md",
+    "dynamic Metadata.md",
+    "Promptopia - Nextjs project.md",
+    "NextJs folder setup.md",
+    "Git and Github.md",
+    "layout.jsx.md",
+    "page.jsx.md",
+    "Server Components.md",
+    "Antifragile - ch 4.md",
+    "Antifragile.md",
+    "Antifragile - ch 1-2.md",
+    "Antifragile - ch 3.md",
+    "Antifragile - 1 page summary.md",
+    "Fundamentals of typescript.md",
+    "typescript mosh.md",
+    "Getting Started.md",
+    "Pasted image 20230831153807.png",
+    "Pasted image 20230831153738.png",
+    "Pasted image 20230831153602.png",
+    "Typescript tutorial.md",
+    "Nextjs Doc learn.md",
+    "1000 English collocation.md",
+    "Pasted image 20230830133431.png",
+    "Pasted image 20230830093030.png",
+    "Pasted image 20230829085400.png"
   ]
 }
