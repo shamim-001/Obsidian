@@ -30,7 +30,7 @@
 # Django
 #django #django-packages #django-project 
 
-#django-postgres 
+#django-postgres #nextjs-django 
 # JavaScript
 #js-concept #js #js-notes #js-tutorial
 

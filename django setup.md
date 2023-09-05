@@ -5,7 +5,7 @@
 	- [mapping urls to views](#mapping_urls_to_views)
 	- [Using templates](#templates)
 
-[[django rest framework]]
+[[django rest framework and Related packages]]
 
 # Setup
 install virtual environment
