@@ -11,9 +11,9 @@
 
 #tutorial  #setup #frontend #system-design 
 
-#typescript #twitter #bohubrihi 
+#typescript #twitter #bohubrihi #python-tutorial 
 
-#roadmap #tailwindcss #git #json 
+#roadmap #tailwindcss #git #git_branch  #github  #json 
 
 #sql #postgresql #project  #projects-in-hand 
 

@@ -5,5 +5,8 @@
 [Back-end Source Code](https://github1s.com/linkedweb/full-auth-api)
 
 -----------------------------------------------------
-
+# Packages
+```
+pip3 install djangorestframework djangorestframework-simplejwt djoser psycopg2-binary
+```
 

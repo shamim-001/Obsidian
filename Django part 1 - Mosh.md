@@ -3,6 +3,7 @@
 [[Introduction to Django]]
 [[data modeling]]
 [[setting up the database]]
+[[Django ORM]]
 
 
 

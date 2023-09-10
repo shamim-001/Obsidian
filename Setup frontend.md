@@ -3,7 +3,7 @@
 [Tailwind tool box](https://www.tailwindtoolbox.com/)
 
 ```bash
-npm create vite@latest my-project -- --template react
+npm create vite@latest .
 ```
 
 or 
