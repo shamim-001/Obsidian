@@ -7,7 +7,7 @@
 -[Job](#Job) -[English](#English) -[Websites](#Websites) 
 
 # Tech 
-#DSA #linkedIn 
+#DSA #linkedIn #tech-book 
 
 #tutorial  #setup #frontend #system-design 
 
@@ -53,7 +53,7 @@
 
 #metadata #fetching-data 
 # React-Projects
-#react-project 
+#react-project #react-starter 
 
 # API
 #api_url #axios 
