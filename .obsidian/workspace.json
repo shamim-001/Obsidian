@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "packtpub Subs.md",
+                "file": "Weekly Action Plan.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,29 +64,19 @@
             }
           },
           {
-            "id": "6af254eede570578",
+            "id": "bc2e505274fa6895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecom React project.md",
-                "mode": "source",
+                "file": "The 7 Habits of Highly Effective People - 1 page summary.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a05695e39b55e824",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#react-project",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecom React project.md",
+                "file": "The 7 Habits of Highly Effective People - 1 page summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecom React project.md",
+                "file": "The 7 Habits of Highly Effective People - 1 page summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecom React project.md"
+                "file": "The 7 Habits of Highly Effective People - 1 page summary.md"
               }
             }
           },
@@ -211,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,34 +214,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a05695e39b55e824",
+  "active": "bc2e505274fa6895",
   "lastOpenFiles": [
-    "*Tag.md",
-    "packtpub Subs.md",
-    "JavaScript from Beginner to Professional, Published by Packt.md",
-    "JavaScript Multiple Values.md",
-    "Open Source Projects - Beyond Code.md",
-    "React Key Concepts.md",
-    "1. React – What and Why.md",
-    "Mastering TypeScript - Fourth Edition.md",
-    "Becoming an Enterprise Django Developer.md",
-    "Books.md",
-    "Django 4 By Example - Fourth Edition.md",
-    "Django 4 for the Impatient.md",
-    "Web Development with Django - Second Edition.md",
-    "React 18 Design Patterns and Best Practices - Fourth Edition.md",
-    "Responsive Web Design with HTML5 and CSS - Third Edition.md",
-    "Introducing TypeScript.md",
-    "Setup frontend.md",
-    "Taking Your First Steps with React.md",
-    "ChatGPT Links.md",
-    "React and React Native - Fourth Edition.md",
-    "React Template Project.md",
-    "Ecom React project.md",
-    "My burger.md",
-    "Project - Bohubrihi.md",
-    "Bohubrihi Restaurant.md",
-    "Bohubrihi Assignment.md",
+    "How to Win Friends and Influence People.md",
+    "How to Win Friends and Influence People - feedback- 9.md",
+    "How to Win Friends and Influence People - feedback- 8.md",
+    "How to Win Friends and Influence People - feedback- 7.md",
+    "How to Win Friends and Influence People - feedback- 6.md",
+    "How to Win Friends and Influence People - feedback- 5.md",
+    "How to Win Friends and Influence People - feedback- 4.md",
+    "How to Win Friends and Influence People - feedback- 3.md",
+    "How to Win Friends and Influence People - feedback- 2.md",
+    "How to Win Friends and Influence People - feedback- 1.md",
+    "How to Win Friends and Influence People - ar-12.md",
+    "How to Win Friends and Influence People - ar-11.md",
+    "How to Win Friends and Influence People - ar-10.md",
+    "How to Win Friends and Influence People - ar-9.md",
+    "How to Win Friends and Influence People - ar-8.md",
+    "How to Win Friends and Influence People - ar-7.md",
+    "How to Win Friends and Influence People - ar-6.md",
+    "How to Win Friends and Influence People - ar-5.md",
+    "How to Win Friends and Influence People - ar-4.md",
+    "How to Win Friends and Influence People - ar-3.md",
+    "How to Win Friends and Influence People - ar-2.md",
+    "How to Win Friends and Influence People - ar - 1.md",
+    "How to Win Friends and Influence People - part - 3.md",
+    "How to Win Friends and Influence People - L-6.md",
+    "How to Win Friends and Influence People - L-5.md",
+    "How to Win Friends and Influence People - L-4.md",
     "Pasted image 20230909150208.png",
     "Pasted image 20230909145231.png",
     "Pasted image 20230909111256.png",

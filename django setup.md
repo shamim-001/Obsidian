@@ -1,29 +1,45 @@
 #setup 
-- [setup](#Setup)
-	- [manage.py](#manage.py)
-	- [view.py](#view.py)
-	- [mapping urls to views](#mapping_urls_to_views)
-	- [Using templates](#templates)
-
-[[django rest framework and Related packages]]
 
 # Setup
-install virtual environment
-```bash
-pip3 install pipenv
+1. **Install the Python3 venv module.**
+
+```
+sudo apt install python3-venv
 ```
 
-```bash
-pipenv install django
+2. **Create a new directory for your Django project.**
+
+```
+mkdir my_django_project
+cd my_django_project
 ```
 
--> activate pipenv by running ->
-```bash
-pipenv shell
+3. **Create a virtual environment for your project.**
+
+```
+python3 -m venv venv
 ```
 
-```bash
+4. **Activate the virtual environment.**
+
+```
+source venv/bin/activate
+```
+
+5. **Install Django.**
+
+```
+pip3 install django
+```
+
+6. **Verify that Django is installed correctly.**
+
+```
 python3 -m django --version
+```
+
+```
+deactivate
 ```
 
 Create the project folder, 
@@ -42,7 +58,10 @@ pip3 freeze > requirements.txt
 ```
 pip3 install -r requirements.txt
 ```
+# install packages
+[[django rest framework and Related packages]]
 
+# Create database
 ==Setup database==
 [[connect postgresql - django]]
 

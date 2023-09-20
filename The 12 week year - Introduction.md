@@ -1,19 +1,3 @@
-[![Shortform App](./Shortform _ Book_files/logo-dark.70c1b072.svg)](https://www.shortform.com/app)
-
-[Discover](https://www.shortform.com/app)
-
-[Books](https://www.shortform.com/app/books)
-
-[Articles](https://www.shortform.com/app/articles)
-
-[My library](https://www.shortform.com/app/library)
-
-[Search](https://www.shortform.com/app/search)
-
-# The 12 Week Year
-
-[Back to Discover](https://www.shortform.com/app)
-
 ## Introduction
 
 (Shortform note: _The 12 Week Year_ is organized into two sections. The first provides the theoretical basis for the actionable steps to create your 12-week plan, and the second provides the actionable steps. For this summary, we’ve chosen to group the theoretical concepts and actionables under each topic for ease of understanding and implementation.)
@@ -33,19 +17,3 @@ _Execution_ is the key to greatness, and consistent execution of your skills an
 The knowledge you gain in this summary will not be new. These ideas have been written about in various ways. What you _will_ learn is a successful plan of attack for how to execute that knowledge. You’ll be given clear instructions for how to change your life today to tap into your best future.
 
 You can use these concepts to improve both your professional and personal lives by generating greater results from your actions. Along with increased success, other benefits of the 12-week program are decreased stress, increased confidence, and improved self-esteem.
-
-[
-
-Previous
-
-1-Page Summary
-
-](https://www.shortform.com/app/book/the-12-week-year/1-page-summary)
-
-[
-
-Next
-
-Chapter 1: Success Begins in the Mind
-
-](https://www.shortform.com/app/book/the-12-week-year/chapter-1)

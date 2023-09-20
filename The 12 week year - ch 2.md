@@ -1,19 +1,3 @@
-[![Shortform App](./Shortform _ Book_files/logo-dark.70c1b072.svg)](https://www.shortform.com/app)
-
-[Discover](https://www.shortform.com/app)
-
-[Books](https://www.shortform.com/app/books)
-
-[Articles](https://www.shortform.com/app/articles)
-
-[My library](https://www.shortform.com/app/library)
-
-[Search](https://www.shortform.com/app/search)
-
-# The 12 Week Year
-
-[Back to Discover](https://www.shortform.com/app)
-
 ## Chapter 2: Discipline 1—Vision
 
 One of the most important requirements of increasing your execution is a clear and compelling vision for what you want your future to be. This vision is necessary because the process of executing at a higher level is simple but not easy. What stops so many people from doing it is the hardship of going through the steps of change. **Changing your behavior is uncomfortable because you're pushing yourself out of your comfort zone.** When this happens, your brain activates your fight-or-flight response. Unfortunately, flight is the easier choice than pushing through the discomfort to fight.

@@ -1,19 +1,3 @@
-[![Shortform App](./Shortform _ Book_files/logo-dark.70c1b072.svg)](https://www.shortform.com/app)
-
-[Discover](https://www.shortform.com/app)
-
-[Books](https://www.shortform.com/app/books)
-
-[Articles](https://www.shortform.com/app/articles)
-
-[My library](https://www.shortform.com/app/library)
-
-[Search](https://www.shortform.com/app/search)
-
-# The 12 Week Year
-
-[Back to Discover](https://www.shortform.com/app)
-
 ## Chapter 1: Success Begins in the Mind
 
 Society tells us that changing our actions leads to better results. This advice is not completely wrong, but the focus is. **A shift in actions without a shift in mindset only leads to marginal improvements.** To truly reach your full potential and achieve your goals, you must change your perspective about the nature of work.
@@ -57,19 +41,3 @@ You can implement parts of the 12-week year as you see fit, but understand that 
 **You will be more equipped to succeed in your 12-week process after your initial use of the techniques because you’ll know what to expect.** You’ve also experienced greater results than you thought were possible, which gives you hope for the future. Make the 12-week year your personal operating system for every aspect of your life.
 
 In the chapters that follow, you’ll learn the eight elements that underpin this execution system. These elements have been broken down into two groups to help you see how they support your execution system. The **_disciplines_** of vision, planning, process control, measurement, and time use guide your behaviors during the 12 weeks. The **_principles_** of accountability, commitment, and greatness in the moment guide the changes in mindset required to effectively execute the 12-week plan.
-
-[
-
-Previous
-
-Introduction
-
-](https://www.shortform.com/app/book/the-12-week-year/introduction)
-
-[
-
-Next
-
-Chapter 2: Discipline 1—Vision
-
-](https://www.shortform.com/app/book/the-12-week-year/chapter-2)
