@@ -15,7 +15,8 @@
               "type": "markdown",
               "state": {
                 "file": "*Tag.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true
@@ -30,6 +31,7 @@
               "state": {
                 "file": "Blogs.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true
@@ -44,6 +46,7 @@
               "state": {
                 "file": "ChatGPT Links.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true
@@ -57,22 +60,26 @@
               "type": "markdown",
               "state": {
                 "file": "Weekly Action Plan.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "bc2e505274fa6895",
+            "id": "25700b051deb8d46",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The 7 Habits of Highly Effective People - 1 page summary.md",
-                "mode": "preview",
+                "file": "Ultimate Next.js 13 Course.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -105,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#setup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The 7 Habits of Highly Effective People - 1 page summary.md",
+                "file": "Ultimate Next.js 13 Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The 7 Habits of Highly Effective People - 1 page summary.md",
+                "file": "Ultimate Next.js 13 Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The 7 Habits of Highly Effective People - 1 page summary.md"
+                "file": "Ultimate Next.js 13 Course.md"
               }
             }
           },
@@ -209,48 +216,47 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc2e505274fa6895",
+  "active": "25700b051deb8d46",
   "lastOpenFiles": [
-    "How to Win Friends and Influence People.md",
-    "How to Win Friends and Influence People - feedback- 9.md",
-    "How to Win Friends and Influence People - feedback- 8.md",
-    "How to Win Friends and Influence People - feedback- 7.md",
-    "How to Win Friends and Influence People - feedback- 6.md",
-    "How to Win Friends and Influence People - feedback- 5.md",
-    "How to Win Friends and Influence People - feedback- 4.md",
-    "How to Win Friends and Influence People - feedback- 3.md",
-    "How to Win Friends and Influence People - feedback- 2.md",
-    "How to Win Friends and Influence People - feedback- 1.md",
-    "How to Win Friends and Influence People - ar-12.md",
-    "How to Win Friends and Influence People - ar-11.md",
-    "How to Win Friends and Influence People - ar-10.md",
-    "How to Win Friends and Influence People - ar-9.md",
-    "How to Win Friends and Influence People - ar-8.md",
-    "How to Win Friends and Influence People - ar-7.md",
-    "How to Win Friends and Influence People - ar-6.md",
-    "How to Win Friends and Influence People - ar-5.md",
-    "How to Win Friends and Influence People - ar-4.md",
-    "How to Win Friends and Influence People - ar-3.md",
-    "How to Win Friends and Influence People - ar-2.md",
-    "How to Win Friends and Influence People - ar - 1.md",
-    "How to Win Friends and Influence People - part - 3.md",
-    "How to Win Friends and Influence People - L-6.md",
-    "How to Win Friends and Influence People - L-5.md",
-    "How to Win Friends and Influence People - L-4.md",
-    "Pasted image 20230909150208.png",
-    "Pasted image 20230909145231.png",
-    "Pasted image 20230909111256.png",
-    "Pasted image 20230909110910.png",
-    "Pasted image 20230909105651.png",
-    "Pasted image 20230909105638.png",
-    "Pasted image 20230909105432.png",
-    "Pasted image 20230909105345.png",
-    "Pasted image 20230909105316.png",
-    "Pasted image 20230905165501.png"
+    "Different Rendering Strategies.md",
+    "Pasted image 20231027165417.png",
+    "Pasted image 20231027165405.png",
+    "Pasted image 20231027165349.png",
+    "Pasted image 20231027165334.png",
+    "Pasted image 20231027165318.png",
+    "Pasted image 20231027165239.png",
+    "Pasted image 20231027165144.png",
+    "Pasted image 20231027165044.png",
+    "Pasted image 20231027165001.png",
+    "Pasted image 20231027164638.png",
+    "Ultimate Next.js 13 Course.md",
+    "Client vs. Server Paradigm.md",
+    "nextjs setup.md",
+    "Routes.md",
+    "*Tag.md",
+    "Code Architecture.md",
+    "Remote job.md",
+    "Weekly Action Plan.md",
+    "Setup frontend.md",
+    "Chai or react.md",
+    "Setup ts+tailwindcss+react with vite.md",
+    "Django aws deployment.md",
+    "moviereviews.md",
+    "Vercel Deployment.md",
+    "django setup.md",
+    "Django projects from book.md",
+    "a blog application.md",
+    "django setup.sync-conflict-20230922-070320-JA6J646.md",
+    "mdn - locan library.md",
+    "React Tutorial.md",
+    "Blogs.md",
+    "Render deployment.md",
+    "Exam.md",
+    "Software engineering.md",
+    "Untitled.canvas"
   ]
 }

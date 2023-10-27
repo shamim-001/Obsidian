@@ -79,19 +79,3 @@ At the time, Taleb was working for Credit Suisse First Boston; his specialty, ho
 On the day of the crash, he was vindicated. So much so that his bonus was tantamount to “F*** you” money—that is, it was large enough that he no longer needed to work to earn money. He chose to stay in finance, but he customized his roles so that he could spend ample time in solitude and contemplation.
 
 The focus of his sabbaticals? _Uncertainty_.
-
-[
-
-Previous
-
-Shortform Introduction
-
-](https://www.shortform.com/app/book/the-black-swan/shortform-introduction)
-
-[
-
-Next
-
-Chapter 2: Scalability | Mediocristan and Extremistan
-
-](https://www.shortform.com/app/book/the-black-swan/chapter-2)

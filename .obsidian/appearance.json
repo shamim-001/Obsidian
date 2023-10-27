@@ -1,5 +1,9 @@
 {
   "accentColor": "",
+  "baseFontSize": 18,
+  "cssTheme": "",
   "theme": "obsidian",
-  "baseFontSize": 21
+  "interfaceFontFamily": "Source Code Pro,Arial",
+  "showViewHeader": true,
+  "nativeMenus": false
 }

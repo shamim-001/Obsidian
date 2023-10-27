@@ -6,10 +6,12 @@
 
 -[Job](#Job) -[English](#English) -[Websites](#Websites) 
 
-# Tech 
-#DSA #linkedIn #tech-book 
 
-#tutorial  #setup #frontend #system-design 
+
+# Tech 
+#DSA #linkedIn #tech-book #software-engineering
+
+#tutorial  #setup #frontend #system-design #deployment
 
 #typescript #twitter #bohubrihi #python-tutorial 
 
@@ -37,6 +39,8 @@
 #this 
 
 # React
+#react-tutorial 
+
 #react #react-insights  #react-packages #react-query 
 #redux-toolkit 
 

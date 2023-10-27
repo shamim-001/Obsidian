@@ -1,4 +1,5 @@
 #book-summary #short-form #business 
+
 1. [[thinking fast and slow - 1 page summary]]
 2. [[thinking fast and slow - part 1 - 1]]
 3. [[thinking fast and slow - part 1 - 2]]

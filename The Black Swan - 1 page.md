@@ -97,21 +97,3 @@ Because Black Swans are, by definition, unpredictable, **we’re better off _p
 That’s because, though Black Swans themselves can never be predicted, their _effects_ can be. For example, no one can predict when an earthquake will strike, but one can know what its effects will be and prepare adequately to handle them.
 
 The same goes for an economic recession. No one can predict precisely when one will occur, but, using the “barbell strategy” or some other means of mitigating risk, we can at least be prepared for one.
-
-[
-
-Back
-
-Back to preview page
-
-](https://www.shortform.com/app/book/the-black-swan/preview)
-
-[
-
-Next
-
-Shortform Introduction
-
-](https://www.shortform.com/app/book/the-black-swan/shortform-introduction)
-
-Guided Tour

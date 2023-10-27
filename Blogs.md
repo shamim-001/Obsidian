@@ -25,3 +25,5 @@
 [Django tutorial - geeksforgeeks ](https://www.geeksforgeeks.org/django-tutorial/)
 
 [MDN - Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+
+[Cloud with Django](https://www.cloudwithdjango.com/)

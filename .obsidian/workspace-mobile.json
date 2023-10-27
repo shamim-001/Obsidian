@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "fc5064a28e6bf69e",
+    "type": "split",
+    "children": [
+      {
+        "id": "17ddb723d41c107c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8a6614ed9b1e78",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "08bacf0f55a63b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Black Swan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bddf37fe183af08",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c6af10b4931dba6f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "f4ebfde827a5fb9c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#short-form",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cb5603022dc5dbbd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "17552305784f0126",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "49b7a8bc87954094",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2dc1feb641be1fbc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "The Black Swan.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5feec80bdc9f3005",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "The Black Swan.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9bf0da6c9b07dfe0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "The Black Swan.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08bacf0f55a63b53",
+  "lastOpenFiles": [
+    "The Daily Stoic.md",
+    "Tags.md",
+    "Pasted image 20230828074618.png",
+    "Web Applications and the Request",
+    "thinking fast and slow - 1 page summary.md",
+    "Thinking fast and slow.md",
+    "How to talk to anyone - 1 page summary.md",
+    "How to talk to anyone.md",
+    "The 12 week year.md",
+    "The 12 week year - ch 3.md",
+    "The one thing.md",
+    "The 12 week year - ch 2.md",
+    "The 12 week year - ch 1.md",
+    "The 12 week year - Introduction.md",
+    "The 12 week year - 1 page summary.md",
+    "Start with why.md",
+    "start with why - 1 page summary.md",
+    "Antifragile - ch 3.md",
+    "Antifragile.md",
+    "Antifragile - ch 1-2.md",
+    "Mindset - ch 2.md",
+    "Mindset.md",
+    "Mindset - ch 1.md",
+    "django setup.md",
+    "Mindset - 1 page summary.md",
+    "good to great - ch 1.md",
+    "Good To Great.md",
+    "good to great - shortform introduction.md"
+  ]
+}
