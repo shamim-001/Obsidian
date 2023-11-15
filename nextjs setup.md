@@ -18,19 +18,4 @@ npm install eslint-config-standard eslint-plugin-tailwindcss eslint-config-prett
 ```
 
 
-```bash
-npm install eslint-config-standard
-```
-
-```bash
-npm install eslint-plugin-tailwindcss
-```
-
-```bash
-npm install eslint-config-prettier
-```
-
-```bash
-npm install prettier
-```
 

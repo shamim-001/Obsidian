@@ -7,9 +7,10 @@
 -[Job](#Job) -[English](#English) -[Websites](#Websites) 
 
 
+#picking_nuggets 
 
 # Tech 
-#DSA #linkedIn #tech-book #software-engineering
+#DSA #linkedIn #tech-book #software-engineering #project
 
 #tutorial  #setup #frontend #system-design #deployment
 
@@ -17,7 +18,7 @@
 
 #roadmap #tailwindcss #git #git_branch  #github  #json 
 
-#sql #postgresql #project  #projects-in-hand 
+#sql #postgresql #projects-in-hand 
 
 #open-source #plan #npm-update
 
@@ -39,7 +40,7 @@
 #this 
 
 # React
-#react-tutorial 
+#react-tutorial #react-notes 
 
 #react #react-insights  #react-packages #react-query 
 #redux-toolkit 
