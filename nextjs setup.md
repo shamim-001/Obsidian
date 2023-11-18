@@ -17,5 +17,6 @@ npm install eslint-config-standard eslint-plugin-tailwindcss eslint-config-prett
 }
 ```
 
+[[Code Architecture]]
 
-
+https://ui.shadcn.com/docs/installation/next
