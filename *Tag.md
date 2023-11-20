@@ -7,7 +7,7 @@
 -[Job](#Job) -[English](#English) -[Websites](#Websites) 
 
 
-#picking_nuggets 
+#picking_nuggets #routine
 
 # Tech 
 #DSA #linkedIn #tech-book #software-engineering #project

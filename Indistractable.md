@@ -1,1 +1,12 @@
 #short-form 
+[[Indistractable - 1 page summary]]
+[[Indistractable - Intro]]
+[[Indistractable - part 1]]
+[[Indistractable - part 2]]
+[[Indistractable - part 3.1]]
+[[Indistractable - part 3.2]]
+[[Indistractable - part 4]]
+[[Indistractable - app 1]]
+[[Indistractable - app 2]]
+[[Indistractable - app 3]]
+[[Indistractable - q&a]]

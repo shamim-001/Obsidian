@@ -1,19 +1,3 @@
-[![Shortform App](./Shortform _ Book_files/logo-dark.70c1b072.svg)](https://www.shortform.com/app)
-
-[Discover](https://www.shortform.com/app)
-
-[Books](https://www.shortform.com/app/books)
-
-[Articles](https://www.shortform.com/app/articles)
-
-[My library](https://www.shortform.com/app/library)
-
-[Search](https://www.shortform.com/app/search)
-
-# Mindset
-
-[Back to Discover](https://www.shortform.com/app)
-
 ## Chapter 1: Two Mindsets
 
 Although you may not be conscious of them, you have powerful beliefs that affect what you want and whether you get it. In _Mindset_, psychologist and researcher Carol S. Dweck argues that **one belief in particular can determine the course of much of your life**, starting as early as your preschool years.

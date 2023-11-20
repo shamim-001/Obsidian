@@ -1,0 +1,12 @@
+#short-form 
+[[The Subtle Art of Not Giving a F*ck - 1 page summary]]
+[[The Subtle Art of Not Giving a F*ck - shortform intro]]
+[[The Subtle Art of Not Giving a F*ck - ch 1]]
+[[The Subtle Art of Not Giving a F*ck - ch 2]]
+[[The Subtle Art of Not Giving a F*ck - ch 3]]
+[[The Subtle Art of Not Giving a F*ck - ch 4]]
+[[The Subtle Art of Not Giving a F*ck - ch 5]]
+[[The Subtle Art of Not Giving a F*ck - ch 6]]
+[[The Subtle Art of Not Giving a F*ck - ch 7]]
+[[The Subtle Art of Not Giving a F*ck - ch 8]]
+[[The Subtle Art of Not Giving a F*ck - ch 9]]

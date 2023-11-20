@@ -1,19 +1,3 @@
-[![Shortform App](./Shortform _ Mindset_files/logo-dark.70c1b072.svg)](https://www.shortform.com/app)
-
-[Discover](https://www.shortform.com/app)
-
-[Books](https://www.shortform.com/app/books)
-
-[Articles](https://www.shortform.com/app/articles)
-
-[My library](https://www.shortform.com/app/library)
-
-[Search](https://www.shortform.com/app/search)
-
-# Mindset
-
-[Back to Discover](https://www.shortform.com/app)
-
 ## 1-Page Summary
 
 Although you may not be conscious of them, you have powerful beliefs that affect what you want and whether you get it. In _Mindset_, Carol S. Dweck argues that **your attitudes about your abilities and intelligence determine the course of your life, starting as early as your preschool years.**
@@ -217,20 +201,3 @@ Achieving a growth mindset is a journey—you won’t get there all at once. Dwe
 > 
 > In the same way, you could see your fixed-mindset persona as your own version of Mara. Instead of trying to force down that persona through frustration and disgust, try greeting it as an old friend. Meet its arguments about your limitations and natural talents (or lack of them) with respect and conviction. Eventually, your personal “Mara” will exhaust itself and leave you in peace.
 
-[
-
-Back
-
-Back to preview page
-
-](https://www.shortform.com/app/book/mindset/preview)
-
-[
-
-Next
-
-Chapter 1: Two Mindsets
-
-](https://www.shortform.com/app/book/mindset/chapter-1)
-
-Guided Tour
