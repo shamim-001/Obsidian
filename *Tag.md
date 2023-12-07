@@ -1,24 +1,39 @@
-#philosophy #learning #english-tips 
+#linkedIn #business-idea #freelancing #setup #vscode
 
--[Tech](#Tech) -[Frontend](#Frontend) -[CSS](#CSS) -[Django](#Django) -[JavaScript](#JavaScript) -[React](#React) -[Nextjs](#Nextjs) 
+#web-tools
+- [API](#API)
+- [Backend](#Backend)
+- [Blogs & Reading](#Blogs-&-Reading)
+- [Books](#Books)
+- [Cheat Sheet](#Cheat-Sheet)
+- [CSS](#CSS)
+- [Daily Note](#Daily-Note)
+- [Django](#Django)
+- [English](#English)
+- [Frontend](#Frontend)
+- [JavaScript](#JavaScript)
+- [Job](#Job)
+- [Nextjs](#Nextjs)
+- [React](#React)
+- [React Projects](#React-Projects)
+- [Tech](#Tech)
+- [Websites](#Websites)
 
--[React Projects](#React-Projects) -[API](#API) -[Cheat Sheet](#Cheat-Sheet) -[Books](#Books) -[Blogs & Reading](#Blogs-&-Reading) 
-
--[Job](#Job) -[English](#English) -[Websites](#Websites) 
 
 
-#picking_nuggets #routine
-
+#picking_nuggets #routine #tech-info #market-place 
 # Tech 
-#DSA #linkedIn #tech-book #software-engineering #project
+#DSA  #tech-book #software-engineering 
 
-#tutorial  #setup #frontend #system-design #deployment
+#project 
 
-#typescript #twitter #bohubrihi #python-tutorial 
+#tutorial  #frontend #system-design #deployment
+
+#python-tutorial 
 
 #roadmap #tailwindcss #git #git_branch  #github  #json 
 
-#sql #postgresql #projects-in-hand 
+#sql #postgresql 
 
 #open-source #plan #npm-update
 
@@ -30,11 +45,19 @@
 # CSS
 #css #responsive-design  #media-query #position 
 
+# Backend
+#backend #supabase 
+
+# Daily-Note
+#dnReactjs #dnNextjs 
+
 # Django
 #django #django-packages #django-project 
 
 #django-postgres #nextjs-django 
 # JavaScript
+#typescript 
+
 #js-concept #js #js-notes #js-tutorial
 
 #this 
@@ -53,10 +76,13 @@
 
 # Nextjs
 #nextjs #nextjs-tutorial  #nextjs-django #nextjs-project 
-#nextjs-setup
+
+#nextjs-setup #nextAuth
+
 #nextjs-concept 
 
 #metadata #fetching-data 
+
 # React-Projects
 #react-project #react-starter 
 
@@ -67,7 +93,7 @@
 #cheatsheet #chatgpt 
 
 # Books
-#book-summary #short-form #key-points 
+#book-summary #short-form #key-points #fav
 
 # Blogs-&-Reading
 #blogs  #nextjs-django

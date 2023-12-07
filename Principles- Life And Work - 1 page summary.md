@@ -241,20 +241,3 @@ Once you have your plan, you need to execute it. Dalio suggests three tactics: H
 > - **Objectively analyze every decision.** Success can make you feel invincible, but always assume that things can go wrong. With every decision, use a premortem analysis to run through possible outcomes and how you can safeguard yourself against potential issues. Then, after you’ve made the decision, use a postmortem analysis to determine which outcomes were due to skill or due to pure luck.
 >     
 
-[
-
-Back
-
-Back to preview page
-
-](https://www.shortform.com/app/book/principles-life-and-work/preview)
-
-[
-
-Next
-
-Shortform Introduction
-
-](https://www.shortform.com/app/book/principles-life-and-work/shortform-introduction)
-
-Guided Tour

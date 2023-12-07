@@ -11,9 +11,22 @@ npm install eslint-config-standard eslint-plugin-tailwindcss eslint-config-prett
 ```
 
 `.eslintrc.json`
-```js
+```json
 {
-"extends": ["next/core-web-vitals", "standard", "plugin:tailwindcss/recommended", "prettier"]
+  "extends": [
+    "next/core-web-vitals",
+    "standard",
+    "plugin:tailwindcss/recommended",
+    "prettier"
+  ],
+  "rules": {
+    "camelcase": [
+      "error",
+      {
+        "allow": ["League_Spartan"]
+      }
+    ]
+  }
 }
 ```
 

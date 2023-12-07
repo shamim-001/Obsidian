@@ -1,0 +1,214 @@
+#short-form 
+
+## 1-Page Summary
+
+What’s a good life—and how can you live one? According to William B. Irvine, those are the basic questions at the heart of Stoic philosophy, an ancient Greek and Roman school of thought whose answers, he says, are just as relevant today as they were almost 2,000 years ago. In _[A Guide to the Good Life](https://global.oup.com/academic/product/a-guide-to-the-good-life-9780195374612?cc=us&lang=en&)_, Irvine offers a brief history of Stoicism, an overview of its philosophical tenets, and a step-by-step guide to Stoic techniques designed to help you **live well—which means being happier, calmer, and more fulfilled**.
+
+_A Guide to the Good Life_ was published in 2008 and predates other contemporary reinterpretations of Stoicism such as Ryan Holiday’s _[The Obstacle Is the Way](https://www.shortform.com/app/book/the-obstacle-is-the-way/1-page-summary)_ (2014), _[Ego Is the Enemy](https://www.shortform.com/app/book/ego-is-the-enemy)_ (2016), and _[The Daily Stoic](https://www.shortform.com/app/book/the-daily-stoic/1-page-summary)_ (2016). The book aims to explain and promote Stoic thought to a modern audience while answering the skepticism some readers might have about Stoicism. Irvine, a philosophy professor and a practicing Stoic, combines analyses of classical Stoic texts with insights gleaned from his life experience in order to create a practical how-to guide to Stoic practice.
+
+We’ve organized this guide into two parts. In Part 1, we’ll explain what Stoicism is, how it promises to deliver a good life, and why its ideas still matter today. In Part 2, we’ll outline six practices you can follow to become a practicing Stoic and build a good life of your own. Along the way, we’ll build on Irvine’s recommendations by connecting them to other ancient and modern Stoic texts as well as to ideas from traditions such as Buddhism and Christianity.
+
+### Part 1: Why Stoicism Matters Today
+
+Before we get into specific techniques for practicing Stoicism, it’s worth unpacking just what we mean when we say that **Stoicism is a guide for living well**. In this section, we’ll discuss what Stoicism is (and isn’t), how the ancient Stoics conceived of a good life, and how you might benefit from developing a Stoic practice.
+
+#### What Stoicism Is—and Isn’t
+
+To better understand Stoic thought—and to avoid some contemporary misconceptions about what it means to be “stoic”—we’ll briefly consider the historical context and basic tenets of Stoicism. As we’ll see, Irvine’s version of **Stoicism involves developing joy and minimizing unhappiness by controlling your desires and finding internal—rather than external—sources of fulfillment.**
+
+##### The Pursuit of the Good Life
+
+Stoicism began in Greece around 300 BC and spread to Rome around 140 BC. Irvine describes it as a “philosophy of life.” In other words, **Stoicism isn’t interested in abstract theoretical questions**—it’s interested in how to live well. Irvine argues that ancient Stoic philosophers were concerned with dispensing practical advice about how you should think and behave in order to achieve a good life. (Shortform note: In solving everyday problems with straightforward advice, Stoicism is very different from [most forms of contemporary philosophy](http://ontology.buffalo.edu/smith/articles/What%27sWrong.pdf), which have been criticized for focusing on abstract thought puzzles, sociopolitical arguments, or the history of philosophy itself.)
+
+But what _is_ a good life? For the Greek Stoics, Irvine says, **having a good life meant living _virtuously_—that is, living as humans were designed to live**. The Greek Stoics prized logic and rationality, so for them, to live virtuously meant to exercise reason as fully as possible. For that reason, Greek Stoicism combined ethics (the philosophical study of right and wrong behavior) with logic and physics (which at that time pertained both to the natural world and to what we’d call theology today). (Shortform note: The reason rationality was so important to the ancient Stoics was that [they believed that rational thought was the only thing that created happiness](https://iep.utm.edu/stoiceth/#:~:text=The%20Stoics%20held%20that%20virtue,no%20way%20depends%20on%20luck.) and that _corrupted_ reason was the only thing that created unhappiness.)
+
+By contrast, Irvine says, the Roman Stoics dropped the emphasis on logic and physics and instead focused on **_tranquility_**—**the lack of negative emotions such as anger and anxiety and the presence of joy**—as the basis of a good life. Irvine bases his version of Stoicism entirely on the Roman Stoics because he thinks this emphasis on tranquility is more likely to appeal to modern audiences than the Greeks’ focus on logical virtue. (Shortform note: [Some readers have criticized Irvine’s claim that tranquility was the central goal](https://donaldrobertson.name/2013/05/17/review-of-irvines-a-guide-to-the-good-life-the-ancient-art-of-stoic-joy-2009/) of _any_ Stoic school, arguing that [practical wisdom](https://dailystoic.com/4-stoic-virtues/) was in fact the highest Stoic value and that tranquility was more closely associated with Epicureanism, an entirely different school of philosophy.)
+
+##### Stoic Beliefs vs. Contemporary Misconceptions
+
+According to Irvine, one challenge in revisiting Stoicism today is that ancient Stoic philosophy was quite different from what we commonly think of as stoicism. He says that **when people talk about “being stoic” today, they often mean suppressing your emotions** or managing not to feel anything in the first place. We might also conflate “stoicism” with living an austere life by shunning pleasures and luxuries.
+
+(Shortform note: This observation may have been true when the book was published in 2008, but since then, [there’s been a surge in popularity for modern reinterpretations of Stoic thought](https://www.vice.com/en/article/xgxvmw/the-revival-of-stoicism). As a result, today’s readers may be more likely to associate Stoicism with what [some critics call “Broicism”](https://medium.com/@markdery/how-stoicism-became-broicism-123f3aae6aba)—a [commercialized, productivity-oriented, hypermasculine mindset designed for tech billionaires and their imitators](https://medium.com/stoicism-philosophy-as-a-way-of-life/toicism-broicism-and-stoicism-part-i-its-not-about-money-or-success-53acda57dbf9).)
+
+Irvine explains that the truth is just the opposite: The ancient Stoics weren’t opposed to emotions in general—**they were only interested in minimizing _negative_ emotions, and they looked for ways to actively cultivate joy**. As we’ll see in Part 2, a number of Irvine’s Stoic practices are based on regulating your reactions so that you’re not unduly upset by external events and can find happiness in any circumstance. (Shortform note: If you choose to practice Stoicism, be careful not to try to _suppress_ any emotions, positive or negative. [Doing so can lead to more emotional distress as well as long-term health problems.](https://www.hcf.com.au/health-agenda/body-mind/mental-health/downsides-to-always-being-positive#:~:text=And%20avoiding%20emotions%20can%20also,we're%20making%20them%20stronger.) Instead, think of Stoicism as a way to handle emotions productively rather than a way to get rid of ones you don’t want.)
+
+Similarly, Irvine says, the ancient Stoics believed you could enjoy pleasures and luxuries as long as you related to them correctly, which meant neither craving them nor getting attached to them. Consequently, several of Irvine’s Stoic practices are designed to help you **tame your desires by appreciating what you already have and ignoring things that don’t really matter**. Irvine explains that these practices are important because we’re never truly satisfied: If you base your happiness on external things (such as money, status, or other people), you won’t stay happy for long before you need more of those things (more money or higher status) or newer versions of them (the newest iPhone or a new romantic partner).
+
+(Shortform note: Contemporary psychology supports Irvine’s claim that our happiness always fades. Experts explain that [we’re constantly on a hedonic treadmill](https://www.healthline.com/health/hedonic-treadmill): Our bodies and minds always seek equilibrium, so when something good (or bad) happens to you, you’ll feel an initial surge of emotion before gradually returning to your baseline level of happiness. This phenomenon ensures that nothing can actually grant you lasting happiness. Instead, you need to [counter hedonic adaptation](https://www.verywellmind.com/hedonic-adaptation-4156926) via techniques such as pursuing a variety of pleasures, engaging in altruistic behavior, practicing gratitude—and learning Stoicism.)
+
+Moreover, Irvine argues, the ancient Stoics emphasized life’s temporary nature. They warned that **if you rely on external things to make you happy, you’ll be _unhappy_ when you inevitably lose those things**. For that reason, several of Irvine’s practices are meant to help you prepare for life’s inevitable downturns so that you can handle misfortune skillfully and remain on an even keel.
+
+(Shortform note: This focus on life’s temporariness closely parallels [the Buddhist concept of anicca, or impermanence](https://www.vridhamma.org/node/2489). Buddhism argues that existence consists of constant change and that we suffer when we refuse to accept that change—for example, when we cling to the past or agonize about the future. Moreover, some experts point out that [“anicca” can also translate roughly to “the inability to keep what we like”](https://puredhamma.net/key-dhamma-concepts/anicca-dukkha-anatta-2/anicca-inability-to-keep-what-we-like/)—in other words, that suffering comes from the (unattainable) desire to hold on to the things that bring you pleasure.)
+
+#### Why Practice Stoicism?
+
+Irvine argues that Stoicism is valuable because **most people today don’t actually know what they want out of life**. As a result, they pursue things that society says they should value (such as wealth, fame, success, and material possessions), assuming these things will make them happy. Irvine argues that external rewards like these _can’t_ make you happy and that if you spend your life pursuing them, you run the risk of regretting your choices later on. Moreover, Irvine points out that **even if you _do_ know what you want out of life, you might not know how to get it**. For example, you might _want_ to care less about what other people think of you, but still find yourself craving popularity and approval.
+
+(Shortform note: In _[The Subtle Art of Not Giving a F*ck](https://shortform.com/app/book/the-subtle-art-of-not-giving-a-f-ck)_, Mark Manson agrees that contemporary society pushes us to value the wrong things, and he adds that one of the problems is that [we wrongly believe that we should be happy all the time](https://shortform.com/app/book/the-subtle-art-of-not-giving-a-f-ck#misunderstanding-happiness). In fact, Manson argues, _un_happiness is a normal and necessary part of life, and if we don’t accept that, we’ll make [mistakes like always trying to feel good about ourselves](https://shortform.com/app/book/the-subtle-art-of-not-giving-a-f-ck#believing-that-everyone-is-special) (instead of accepting that we’ll fail sometimes) and [trying to avoid struggle](https://shortform.com/app/book/the-subtle-art-of-not-giving-a-f-ck#trying-to-avoid-pain) (instead of seeing it as path to growth).)
+
+Irvine says that **Stoicism answers both of these concerns. It tells you _what_ to pursue—tranquility—and _how_ you can achieve it**. Irvine points out that many Stoic ideas and practices echo teachings from various spiritual traditions (particularly Buddhism, which Irvine considered practicing before he discovered Stoicism). He argues that for contemporary readers who are leery of religion or who like to think analytically, Stoicism may be the ideal vehicle for learning these principles because it requires neither faith nor devotion, and it relies on practical, concrete advice.
+
+(Shortform note: As Irvine suggests, a number of spiritual traditions have concepts analogous to Stoic tranquility. For example, Buddhism offers the meditation practice of _[shamatha—meaning “calm abiding” or “tranquility”](https://www.lionsroar.com/how-to-practice-shamatha/)_—in which you accept your mind just the way it is. Moreover, in Buddhism, shamatha and other practices are designed to help you reach _[enlightenment, a state of peace in which you no longer suffer](https://www.scienceandnonduality.com/article/the-end-of-suffering)_. Similarly, [Christianity speaks of a “peace that surpasses all understanding”](https://www.christianity.com/wiki/bible/what-is-peace-that-surpasses-all-understanding.html)—a phrase generally interpreted to mean that through prayer and faith, you’ll learn not to worry and to find comfort in any situation.)
+
+### Part 2: How to Practice Stoicism
+
+Now that we’ve discussed what Stoicism is and how it might benefit you, we’ll take a look at how you can actually develop a Stoic practice by following six basic techniques Irvine derives from ancient Stoic philosophy. Irvine recommends practicing one technique at a time, only adding a new technique when you’re comfortable with the previous one. You can learn these practices in any order you like, though Irvine recommends that new Stoics begin with Practice #1 (learn to want what you already have) before moving on to Practice #2 (focus on what you can control).
+
+#### Practice #1: Learn to Want What You Have Using Negative Visualization
+
+Because one of the main goals of Stoicism is to tame desire, one key skill to learn is how not to want things you don’t have. According to Irvine, one of the best ways to do so is to **learn to want the things you _already_ have by taking time each day to imagine losing them**. Irvine says that this practice, known as _negative visualization_, teaches you to appreciate what you already have and helps you deal with actual loss when it happens. The point isn’t to dwell on negative thoughts or generate anxiety about what could go wrong—it’s to remind yourself to pay attention to and enjoy the life you already have.
+
+(Shortform note: “Negative visualization” is a contemporary term for a practice that doesn’t seem to have had a specific label among the ancient Stoics. In fact, the practice didn’t originate with the Stoics—scholars believe [it may date back to the Cyrenaic school of philosophy](https://ora.ox.ac.uk/objects/uuid:cf077ab9-6c95-416a-b8b1-6572d166bbac/download_file?file_format=pdf&safe_filename=Cicero%2BReading%2Bthe%2BCyrenaics%2Bon%2Bthe%2BAnticipation%2Bof%2BFuture%2BHarms.pdf&type_of_work=Journal+article), one of the precursors to Stoicism, from whom [it was adopted by the Stoics and their rivals, the Epicureans](https://unearnedwisdom.com/the-revival-of-stoicism/).)
+
+Negative visualization makes you happier in several ways. First, **negative visualization makes you appreciate what you have instead of wanting something more**. For example, maybe you’d rather be driving a swanky new sports car than a 15-year-old SUV. But if you take a moment to imagine crashing and destroying the SUV, you might find yourself suddenly grateful to have a vehicle at all (and grateful _not_ to be enduring the trauma and probable injury of a major auto accident).
+
+(Shortform note: What separates negative visualization from the _[negative thinking that characterizes anxiety, depression, and other disorders](https://www.healthline.com/health/mental-health/stop-automatic-negative-thoughts)_ is its focus on gratitude. Research shows that [regularly practicing gratitude benefits you psychologically and physically](https://www.health.harvard.edu/healthbeat/giving-thanks-can-make-you-happier#:~:text=In%20positive%20psychology%20research%2C%20gratitude,adversity%2C%20and%20build%20strong%20relationships.). In addition to negative visualization, you can practice gratitude by [meditating, keeping a gratitude journal, and regularly expressing thanks toward others](https://www.mindful.org/an-introduction-to-mindful-gratitude/).)
+
+Second, **anticipating calamities prepares you to deal with them when they _do_ occur**. Irvine says it’s helpful to remember that sooner or later, you’ll lose everything you have—your possessions, your loved ones, and eventually, your life. Realizing this in advance means you won’t be surprised when it happens, and you’ll even have had some mental practice in dealing with the associated emotions. For instance, if you _do_ get in a car accident, your visualization will have prepared you for at least some of the consequences, and you might even find yourself relieved if, say, your SUV is totaled but you’re unhurt.
+
+(Shortform note: For this reason, the philosopher [Seneca likened negative visualization to a soldier training during peacetime](https://whatisstoicism.com/stoicism-definition/what-is-negative-visualisation/). The point isn’t to figure out how to _avoid_ misfortune—it’s to accept that misfortune is inevitable and to be as prepared as possible when it happens. As Seneca put it, wise people are never surprised by misfortune, and as a result, they experience it less keenly than those who hope (and possibly believe) that nothing bad will ever befall them.)
+
+Third, Irvine argues that you can **ease your grief after a loss with a variation on this technique—think about what your life would have been like if you’d never had the person or thing that you’ve lost**. For example, if a loved one dies, Irvine suggests that you can temper your grief by imagining what it would have been like if you’d never known that person in the first place. By realizing what you could have missed out on, your sadness will give way to gratitude for what you _did_ experience. Note that the ancient Stoics considered grief to be normal and natural—they didn’t seek to eliminate it, but rather to minimize its intensity and duration.
+
+(Shortform note: In addition to these kinds of hypotheticals, the ancient Stoics also coped with death by falling back on their rationality. For instance, in his _[Meditations](https://www.shortform.com/app/book/meditations/)_, Roman Emperor and Stoic philosopher Marcus Aurelius pointed out that [death is a necessary natural process](https://www.shortform.com/app/book/meditations/books-2-3#dont-fear-death) and is therefore, by definition, not a bad thing. He also argued that [there’s no rational benefit to having a longer life](https://www.shortform.com/app/book/meditations/books-2-3#let-go-of-longevity) and therefore no reason to worry about our mortality. In fact, Marcus Aurelius recommended being inspired by your mortality: If, as part of your negative visualization, you [remind yourself that you could die at any time](https://www.shortform.com/app/book/meditations/books-2-3#remember-that-you-ll-die), you’ll force yourself to think about what you want to do with your remaining life.)
+
+#### Practice #2: Focus on What You Can Control
+
+Irvine points out that one of the reasons to get rid of desire is that often, we lack the power to actually _get_ the things we want. Therefore, he says, the ancient Stoics recommended that you **only worry about the things that you can actually control**. Otherwise, if you base your happiness on factors or outcomes that you _don’t_ fully control, you effectively give up control of your happiness. For example, if you think you’ll only be happy if you get a promotion at work—an outcome you can’t actually control—you’re setting yourself up for disappointment and unhappiness if you don’t get it.
+
+(Shortform note: Similarly, in _[The Happiness Hypothesis](https://www.shortform.com/app/book/the-happiness-hypothesis/)_, Jonathan Haidt argues that you can’t directly create happiness—instead, [you can only create the conditions for it](https://www.shortform.com/app/book/the-happiness-hypothesis/chapter-9#the-key-to-happiness), wait patiently, and allow (not force) it to arise when the time is right. Likewise, in advising you to focus only on what you can control, the Stoics suggest that you can create the conditions for success, but not success itself.)
+
+This recommendation might seem strange at first—if you should only focus on the things you can control, wouldn’t that mean disconnecting from life and giving up your attempts to accomplish anything since you’re never fully in control of your results? Not at all—in fact, far from withdrawing into themselves, the ancient Stoics were quite active in public life in teaching, advisory, and political leadership roles. Irvine explains that the key is to recognize that **you have _degrees_ of control over different aspects of your life**:
+
+- **There are things you have _total_ control over**, such as your _goal_ to get promoted and the effort you put into your job.
+- **There are things you have _no_ control over**, such as whether another company merges with yours and lays you off as a result.
+- **There are things you have _partial_ control over**, such as whether you _get_ the promotion you’re hoping for (which in turn depends on other partial-control factors such as your boss’s opinion of you).
+
+(Shortform note: One of Stoicism’s key assumptions is that you have [control over your thoughts](https://daily-philosophy.com/stoic-control-emotions/#:~:text=At%20the%20core%20of%20the,to%20control%20what%20they%20cannot.). In fact, many of the practices we’re discussing are based on the premise that you can change how you think and thereby change how you feel. However, some experts argue that [you can’t control your thoughts](https://medium.com/meditation-without-mysticism/stop-trying-to-control-your-thoughts-10da33629cd7) and that trying to do so can actually strengthen the thoughts you’re trying to get rid of. Instead, if you learn to [mindfully observe your thoughts without engaging with them](https://psychcentral.com/blog/observe-accept-your-thoughts-but-you-dont-have-to-follow-them#1), you’ll realize that [you’re free to choose how to respond to them](https://mindfulambition.net/stream-of-consciousness/). This observation doesn’t necessarily negate the practices we’re exploring, but it does suggest that you may not have much luck using brute force to regiment your thinking.)
+
+Irvine says the important lesson is that it’s fine to care about and work toward things you have partial control over, but he suggests that as you do so, you should be careful to **set goals based only on things that are fully under your control**. For example, don’t set a goal of getting the promotion—set a goal, say, to work at the highest efficiency and quality you’re capable of. The latter goal is in your control whereas the former goal isn’t. The latter might _lead to_ the former, but you shouldn’t focus on the former because a) you’ll be disappointed if you don’t get it and b) focusing on it could cause anxiety that affects your efforts to do your best work.
+
+> **Emphasize Processes Over Results**
+> 
+> In _[Atomic Habits](https://shortform.com/app/book/atomic-habits/)_, James Clear gives several more reasons to worry only about what you can control—in this case, by [focusing on improving your behavioral systems rather than achieving specific goals](https://shortform.com/app/book/atomic-habits/chapter-1#systems-vs-goals). For example, rather than focusing on getting a promotion, you might concentrate on improving your workflow and honing the skills you use at your job. Emphasizing the process over the outcome in this way has three benefits:
+> 
+> - Big goals often take a long time (and, the Stoics would add, factors outside your control) to achieve, whereas improving your systems provides you with immediate gratification and feedback.
+>     
+> - Goals are temporary—if you do achieve yours, you might feel like there’s nothing left to do. Plus, as we’ve discussed, your initial happiness at your success will soon fade. Focusing on systems gives you ongoing challenges and reinforcement.
+>     
+> - Goals can limit your possible paths forward. Instead of following your strengths and successes wherever they take you (perhaps into a new career), you might remain fixated on the original goal (the promotion) and miss other opportunities.
+>     
+
+Similarly, Irvine recommends keeping in mind that **the past and the present are beyond your control**: You can’t do anything to change what’s already happened, and because the present itself is determined by the past, you can’t change _it_ either. He recommends that you accept the past and present as they are, and instead worry about the future, which you _can_ still influence.
+
+(Shortform note: Accepting the way things are doesn’t mean becoming a passive observer—it’s actually a strategy for acting more effectively. In _[The Art of Happiness](https://shortform.com/app/book/the-art-of-happiness/)_, the 14th Dalai Lama argues that [accepting suffering keeps you from causing yourself more suffering](https://shortform.com/app/book/the-art-of-happiness/part-4-1#when-you-accept-suffering-you-dont-add-to-your-suffering) by wishing for things to be different. Moreover, he says, when you accept what is, you can [find meaning even in suffering](https://shortform.com/app/book/the-art-of-happiness/part-4-3#strategy-2-derive-meaning-from-suffering), and you’re free to [adopt new perspectives and behaviors](https://shortform.com/app/book/the-art-of-happiness/part-4-3#strategy-1-change-your-perspective-on-suffering) that can make things better.)
+
+#### Practice #3: Don’t Let Other People Bring You Down
+
+As you learn to focus only on the things you can control, you’ll gradually realize that one thing you _can’t_ control is other people. For that reason, Irvine suggests being careful about how you relate to others—specifically, he says you should be careful about the company you keep and learn how to handle negative interactions productively.
+
+According to Irvine, the ancient Stoics argued that you should **avoid people who put an unnecessary strain on your Stoic practices**, such as overly negative people and people who value the wrong things in life. For example, if you’re trying to follow the Stoic practice of making the best of bad situations, you’ll find it harder to do so if you associate with someone who always sees the _worst_ side of things and seems to seek out misfortune. Similarly, if you’re trying to adopt a Stoic disregard for material goods, you may find it harder to do so if your friends are constantly concerned with things like the latest fashions and electronics.
+
+(Shortform note: In _[The Success Principles](https://shortform.com/app/book/the-success-principles/)_, Jack Canfield suggests that it’s not enough just to cut out people who are negative influences—he argues that you should [surround yourself with people who support your values and goals](https://shortform.com/app/book/the-success-principles/part-4#identify-the-negative-people-in-your-life). Canfield suggests going out of your way if you need to in order to find such people. For example, you might consider joining a new organization or taking up a new activity in order to find people who share your interests and values.)
+
+At the same time, Irvine explains, the ancient Stoics believed that **you have a duty to other people, so you should be patient and forgiving**. This sense of duty stemmed from the ancient Stoic belief that we should live in accordance with nature—because humans are naturally social creatures, being virtuous means interacting and cooperating with others no matter what you think of them. If we find someone annoying, Irvine says, the ancient Stoics would point out that other people didn’t choose their flaws any more than we chose our own—and moreover, there are certainly other people who find _us_ annoying. Therefore, Irvine says, the ancient Stoics suggested simply not worrying about what other people do or say.
+
+(Shortform note: In his _[Meditations](https://www.shortform.com/app/book/meditations/)_, Marcus Aurelius added that [even those who oppose you can’t actually hurt you](https://www.shortform.com/app/book/meditations/books-4-6#recognize-that-others-cant-hurt-you). He reasoned that the only thing that can hurt you is that which damages your character—and only you can do that. For that reason, Marcus Aurelius argued that your main goal in dealing with difficult people is to never compromise your own principles—though you can and should take the opportunity to explain them to anyone who’s genuinely interested.)
+
+All the same, Irvine cautions, as a Stoic, you must **learn to shrug off insults**. As you go about your life, you’re bound to be insulted from time to time either when people are openly rude to you or when you feel you’re not being treated in the way you deserve. When this happens, Irvine suggests that you consider your opinion of the other person—do you even care what she thinks? Remember that you can only control your own thoughts and that you can only be hurt if you let yourself be. Instead of fighting back against the insult, Irvine recommends that you **disarm the situation by responding either with humor or not at all**. Either option will potentially signal to the other person that his comments or behaviors missed their mark.
+
+> **How to Not Take Things Personally**
+> 
+> In _[The Four Agreements](https://shortform.com/app/book/the-four-agreements/)_, Don Miguel Ruiz similarly argues that getting offended by other people only leads to bad results. Ruiz suggests that you [remember the following in order to avoid taking criticism and insults personally](https://shortform.com/app/book/the-four-agreements/chapter-3):
+> 
+> - Anything the other person says reflects on them, not on you. Their opinions, judgment, anger, or other emotions aren’t your problem.
+>     
+> - Everyone’s dealing with their own problems, and the other person might just be taking their unhappiness out on you.
+>     
+> - The other person has a different perspective and therefore a different take on the situation. They don’t have to agree with you (or you with them).
+>     
+> - Taking the other person’s opinion personally means accepting their judgment of you, which only increases your suffering.
+>     
+
+Above all, Irvine points out, the ancient Stoics recommended that you **avoid anger at all costs—speaking or acting in anger ultimately gives _other people_ control over you and your behavior**. Ideally, if your Stoic practice is strong and you follow the other advice in this section, other people won’t anger you much in the first place. But if you do find yourself getting angry, don’t act on that feeling. Instead, Irvine says, the ancient Stoics suggested remembering that life is short and that most things don’t matter as much as we think they do in the moment.
+
+(Shortform note: One strategy for coping with anger is to prepare in advance for anger-provoking situations. In _[The Art of Happiness](https://shortform.com/app/book/the-art-of-happiness/)_, the Dalai Lama suggests doing so by [meditating on what it looks and feels like when you get angry](https://shortform.com/app/book/the-art-of-happiness/part-2-4#meditate-to-be-less-angry) and resolving to avoid those sensations in the future by controlling your reactions. Once you’re in a heated situation, he suggests that you [respond with curiosity, patience, and tolerance](https://shortform.com/app/book/the-art-of-happiness/part-2-4#anger-exert-yourself-to-be-less-angry): Try to understand where the anger’s coming from, then do your best to defuse it by accepting it calmly.)
+
+#### Practice #4: Ignore Things That Don’t Matter
+
+As you practice focusing only on what you can control and ignoring what other people think of you, you’ll eventually realize that **many of the things we _think_ are important—such as fame, luxury, and wealth—actually aren’t**. In fact, Irvine says that pursuing these things tends to make us _unhappy_.
+
+For instance, the ancient Stoics argued that **you shouldn’t seek fame or approval**. To begin with, both of these depend on how other people react to you, which means you have at best limited control over them (and as we saw earlier, you should avoid setting goals for things you can’t control). Besides, people’s opinions are fickle, so even if you gain esteem, you’ll likely lose it again anyway. Therefore, if you find yourself craving approval, Irvine suggests asking yourself the same question you might ask when insulted: Why do you care what anyone else thinks—why give them that power over you?
+
+(Shortform note: In _[The Courage to Be Disliked](https://www.shortform.com/app/book/the-courage-to-be-disliked/)_, Ichiro Kishimi and Fumitake Koga agree that seeking approval only leads to unhappiness. They add that when you inevitably fail to gain the universal approval you seek, you risk developing one of [two harmful coping mechanisms](https://www.shortform.com/app/book/the-courage-to-be-disliked#unhappy-people-must-cope-with-an-impossible-goal). First, you might unconsciously adopt feelings such as fear and self-loathing as excuses not to try to connect to people at all. Second, you might adopt a belief that there’s something wrong with you that prevents others from liking you and that limits your possibilities in life.)
+
+Likewise, Irvine says, the ancient Stoics suggested that you should **avoid luxury (meaning unnecessarily fine, expensive, or high-quality things)**. Irvine explains that the ancient Stoics weren’t opposed to pleasure in and of itself, but they were cautious about luxury because they feared it would destroy their capacity to enjoy simple things. For example, it’s fine to enjoy a morning cup of coffee, but Stoics would warn that if you start drinking fancy espresso drinks from a boutique cafe, you’ll eventually stop enjoying the basic coffee you make at home. As you become pickier and pickier, the logic goes, you’ll enjoy life less and less.
+
+(Shortform note: Our pursuit of luxury often dovetails with our desire to gain approval. That’s because many times, the luxuries we pursue aren’t just for us—in _[The Elephant in the Brain](https://www.shortform.com/app/book/the-elephant-in-the-brain/1-page-summary)_, Kevin Simler and Robin Hanson argue that [much of our consumer spending is actually a form of social signaling](https://www.shortform.com/app/book/the-elephant-in-the-brain/1-page-summary#spending-as-signaling). In other words, when you buy the fancy espresso, you signal qualities such as your wealth (such drinks are several times more expensive than a basic cup of coffee), discernment (you drink only the finest, best-crafted drinks), and trendiness (you only frequent the hippest coffee shops). You might enjoy the drink itself, but Simler and Hanson would argue that you also hope to enjoy the social approval your purchase implicitly promises.)
+
+That said, according to Irvine, **if you happen to achieve fame or wealth, enjoy them—just don’t cling to them**. The ancient Stoics didn’t believe you should immediately renounce any good fortune that comes your way, but they would remind you that fame and money are as temporary as anything else in life, so you should be prepared to lose them at any time.
+
+(Shortform note: Ironically, coveting wealth is a common way to lose it. That’s because, as we’ve discussed, if you base your happiness on wealth, your satisfaction will quickly fade once you’ve attained it. In _[The Psychology of Money](https://www.shortform.com/app/book/the-psychology-of-money/)_, Morgan Housel explains that [this dissatisfaction drives some people to take ill-advised financial risks](https://www.shortform.com/app/book/the-psychology-of-money/part-2#lesson-6-be-happy-with-enough)—and, in extreme cases, to pursue illegal avenues toward ever-increasing wealth (such as Bernie Madoff’s multibillion-dollar Ponzi scheme).)
+
+#### Practice #5: Seek Out Discomfort
+
+One way to avoid clinging to wealth and status is to **deliberately seek out discomfort**. Doing so builds up your tolerance for unpleasant experiences and makes them less of a big deal for you. Irvine notes that this voluntary discomfort can be physical or emotional. For example, you could choose not to use your car’s air conditioner on a hot summer day, or you could volunteer to give a presentation even though you fear public speaking. If you follow this practice regularly, Irvine says, you’ll worry less about bad things that might befall you in the future because you’ll already know you can handle any situation.
+
+(Shortform note: This practice is similar to what modern psychology calls [exposure therapy](https://www.apa.org/ptsd-guideline/patients-and-families/exposure-therapy)—a technique whereby a therapist helps a patient confront a feared object (such as spiders) or situation (such as large crowds) in a controlled manner. The difference is that Irvine’s practice doesn’t target a specific fear—rather, it targets discomfort in general. Experts propose [several theories for why exposure works](https://www.psychiatrictimes.com/view/exposure-therapy-anxiety-disorders), arguing that repeated experiences may reduce the intensity of our reactions or build our confidence that we can cope with the object or situation. Whatever the exact mechanism, research supports Irvine’s claim that intentionally undergoing negative experiences can decrease worry and anxiety.)
+
+Another way you can practice voluntary discomfort is to **willingly forgo pleasure**. According to Irvine, pleasure is addictive—but whenever you pass it up, you weaken its grasp on you and instead increase your self-control. In doing so, you learn that you don’t have to follow your desires, and you free yourself from any dependency on wealth, status, and luxury.
+
+(Shortform note: In passing up pleasure, the goal isn’t to make yourself miserable through deprivation—it’s to realize that you can be happy under _any_ circumstances, whether pleasant, unpleasant, or neutral. That’s because skipping pleasures helps you understand the [difference between pleasure and happiness](https://shortform.com/app/book/the-art-of-happiness/part-2-4#strategy-5-prioritize-happiness-over-pleasure) and the fact that pleasure doesn’t make us happy. In _[The Art of Happiness](https://shortform.com/app/book/the-art-of-happiness/)_, the Dalai Lama clarifies this distinction further by defining happiness as a lasting state of non-suffering (what Irvine calls tranquility) that persists in the presence _or_ absence of pleasures, which only offer short-term enjoyment.)
+
+#### Practice #6: Monitor Your Progress
+
+Finally, as you gradually incorporate the other practices, Irvine recommends that you keep track of your growth as a Stoic by analyzing your day-to-day progress and noting ongoing changes in your emotions and behaviors. To do so, Irvine recommends that you **take time each night to reflect on the day’s events and evaluate your responses to challenges you faced**. Did you let other people upset you? Did you give in to a temptation? Did you successfully let go of your worry about something you couldn’t control?
+
+The answers to questions like these give you immediate feedback about what you’re doing well and where you might improve your efforts. You can also use this reflection to check whether you’re actually using the Stoic techniques you’ve learned. Irvine explains that some techniques—especially negative visualization—are easy to forget about when life is going well, but your nightly reflection can remind you to apply them.
+
+(Shortform note: Irvine describes this practice as a “bedtime meditation,” but it bears little resemblance to the sort of meditation that involves [stilling the mind and concentrating](https://www.shortform.com/app/book/mindfulness-in-plain-english/chapter-7) on an object such as the breath, a mantra, or an image. What Irvine recommends is more of a focused analytical review of the day’s events through the lens of Stoic principles, values, and practices. In this way, it’s more akin to Buddhist [analytical meditation](https://www.beingpeacefully.com/dharma-blog/qa-part-two-analytical-meditation-how-to-do-it-simply-explained) (which involves meditating on Buddhist teachings in order to uncover a deeper understanding of existence) or [Christian meditation](https://justdisciple.com/how-to-meditation/) (which involves contemplating points of scripture in order to develop a deeper relationship with God).)
+
+##### What Progress Looks Like
+
+In your nightly reflections—and throughout your life—Irvine says that you can evaluate your Stoic progress by looking for certain trends in your emotions and actions. Specifically, Irvine says you’ll experience the following as you strengthen your Stoic skills:
+
+**You’ll feel fewer and less intense negative emotions and more joy**. Emotions like anger and sadness won’t disturb your calm as much as they used to, and you’ll be less driven by temptation and desire. At the same time, you’ll find yourself delighting in the way your life already is and in the things you already have.
+
+**You’ll be less perturbed by others**. It’ll be easier to brush off insults, be patient, and avoid frustration.
+
+**You’ll take more responsibility for your behavior** instead of blaming other people, circumstances, or luck when things go wrong for you.
+
+> **Additional Signs of Stoic Progress**
+> 
+> Fellow Stoicism popularizer Ryan Holiday describes [a few other benefits](https://dailystoic.com/benefits-stoicism/) you may notice as you develop your Stoic practice:
+> 
+> - **You’ll be less distracted and more focused**. Because you understand what really matters in life—and that life is temporary—you’ll waste less time on things that only provide momentary enjoyment.
+>     
+> - **You’ll worry less**. Because you focus only on what you control and willingly practice dealing with difficult situations, you’ll have less cause to be anxious about potential problems.
+>     
+> - **[You’ll be kinder and humbler](https://www.shortform.com/app/book/the-daily-stoic#managing-our-lives-with-em-wisdom-em)**. Because you’re calmer, happier, and less concerned with advancing your own interests, you’ll be more aware of your duty to others and you’ll help them when you can.
+>     
+
+[
+
+Back
+
+Back to preview page
+
+](https://www.shortform.com/app/book/a-guide-to-the-good-life/preview)
+
+[
+
+Next
+
+Exercise: Plan Your Own Stoic Practice
+
+](https://www.shortform.com/app/book/a-guide-to-the-good-life/exercise-plan-your-own-stoic-practice)
+
+##### Welcome!
+
+Let’s go on a quick tour of a Shortform book guide.
+
+Start
+
+Guided Tour

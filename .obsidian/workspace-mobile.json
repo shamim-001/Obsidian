@@ -4,31 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "17ddb723d41c107c",
+        "id": "0c2c76586d2c63ba",
         "type": "tabs",
         "children": [
           {
-            "id": "ff8a6614ed9b1e78",
+            "id": "7c348f8b39659b8e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tags.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "08bacf0f55a63b53",
+            "id": "d9cd815cc6877662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Black Swan.md",
-                "mode": "source",
+                "file": "Elon Musk - By Ashlee Vance.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -60,9 +62,9 @@
           "type": "search",
           "state": {
             "query": "tag:#short-form",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical"
           }
@@ -100,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Black Swan.md",
+            "file": "Elon Musk - By Ashlee Vance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Black Swan.md",
+            "file": "Elon Musk - By Ashlee Vance.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,8 +131,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The Black Swan.md"
+            "file": "Elon Musk - By Ashlee Vance.md"
           }
+        }
+      },
+      {
+        "id": "85e4b8cd348ecd77",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -138,6 +148,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -145,35 +156,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08bacf0f55a63b53",
+  "active": "d9cd815cc6877662",
   "lastOpenFiles": [
-    "The Daily Stoic.md",
     "Tags.md",
-    "Pasted image 20230828074618.png",
-    "Web Applications and the Request",
-    "thinking fast and slow - 1 page summary.md",
-    "Thinking fast and slow.md",
-    "How to talk to anyone - 1 page summary.md",
-    "How to talk to anyone.md",
-    "The 12 week year.md",
-    "The 12 week year - ch 3.md",
-    "The one thing.md",
-    "The 12 week year - ch 2.md",
-    "The 12 week year - ch 1.md",
-    "The 12 week year - Introduction.md",
-    "The 12 week year - 1 page summary.md",
-    "Start with why.md",
-    "start with why - 1 page summary.md",
-    "Antifragile - ch 3.md",
+    "Meditations - 1 page summary.md",
+    "Meditations.md",
+    "The Obstacle Is The Way - 1 page summary.md",
+    "Deep Work - Part 2 ch 4.md",
+    "Deep Work - 1 page summary.md",
+    "Deep Work - shortform intro.md",
+    "The Obstacle Is The Way.md",
+    "The 48 Laws Of Power - 1 page summary.md",
+    "The 48 Laws Of Power.md",
+    "The 10X Rule - ch 1.md",
+    "The 10X Rule.md",
+    "Man's Search For Meaning - 1 page summary.md",
+    "Man's Search For Meaning.md",
+    "Markdown.md",
+    "The Art of Seduction.md",
+    "The Discourses of Epictetus.md",
+    "The Wisdom of Insecurity.md",
+    "The Courage To Be Disliked.md",
+    "The 10X Rule - intro.md",
+    "The 10X Rule - 1 page summary.md",
+    "The Prince.md",
+    "Stillness Is The Key.md",
     "Antifragile.md",
-    "Antifragile - ch 1-2.md",
-    "Mindset - ch 2.md",
-    "Mindset.md",
-    "Mindset - ch 1.md",
-    "django setup.md",
-    "Mindset - 1 page summary.md",
-    "good to great - ch 1.md",
-    "Good To Great.md",
-    "good to great - shortform introduction.md"
+    "The 48 Laws Of Power - L 9.md",
+    "The 48 Laws Of Power - L 22.md",
+    "Pasted image 20230828074618.png",
+    "Web Applications and the Request"
   ]
 }

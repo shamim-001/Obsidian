@@ -1,0 +1,3 @@
+#business-idea 
+
+Name: CraftyCodeStudio

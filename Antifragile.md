@@ -1,4 +1,4 @@
-#book-summary #short-form #philosophy 
+#short-form #philosophy #fav 
 1. [[Antifragile - 1 page summary]]
 2. [[Antifragile - ch 1-2]]
 3. [[Antifragile - ch 3]]

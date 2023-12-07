@@ -1,4 +1,7 @@
 #blogs 
+
+[Tech](#Tech) => [React Js](#Reactjs) => [JavaScript](#JavaScript) => [Django](#Django) => [Life style](#LifeStyle) 
+
 # Tech
 [Ankur Tyagi](https://theankurtyagi.com/)
 [MDN - web development](https://developer.mozilla.org/en-US/docs/Learn)
@@ -27,3 +30,8 @@
 [MDN - Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
 [Cloud with Django](https://www.cloudwithdjango.com/)
+
+# LifeStyle
+[The Little Almanack](https://www.littlealmanack.com/)
+
+[মুরাদুল ইসলামের নিউজলেটার](https://murad.substack.com/)
